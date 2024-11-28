@@ -1,0 +1,23 @@
+.nav-item:hover{
+
+   background-color: seagreen;
+  color: aliceblue;
+
+  
+}
+
+
+.card:hover{
+  background-color:seagreen;
+  color: aliceblue;
+}
+
+.image1{
+  
+    background-image: url(https://bootstrapmade.com/content/demo/Shuffle/assets/img/cta-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+
